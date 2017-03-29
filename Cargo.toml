@@ -8,5 +8,6 @@ name = "http-get"
 path = "src/http-get.rs"
 
 [dependencies]
+curl = "0.4.6"
 hyper = "0.10.5"
 hyper-rustls = "0.3.2"
